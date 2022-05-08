@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vlad-dinica
+- 👀 I’m interested in Java projects and task automation
+- 🌱 I’m currently learning Java and Linux
+- 💞️ I’m looking to collaborate on small projects in the future
+- 📫 How to reach me: info not currently avaiable
